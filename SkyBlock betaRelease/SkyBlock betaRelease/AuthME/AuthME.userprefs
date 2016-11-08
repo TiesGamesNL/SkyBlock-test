@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthME.cs">
+    <Files>
+      <File FileName="AuthME.cs" Line="266" Column="25" />
+      <File FileName="Database.cs" Line="1" Column="1" />
+      <File FileName="BanManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\RPG\RPG\RPG.cs" Line="1" Column="1" />
+      <File FileName="..\..\RPG\RPG\PlayerFactoryRPG.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

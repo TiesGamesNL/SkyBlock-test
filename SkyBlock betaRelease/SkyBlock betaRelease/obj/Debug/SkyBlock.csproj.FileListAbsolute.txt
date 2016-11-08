@@ -1,0 +1,11 @@
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\bin\Debug\SkyBlock betaRelease.dll
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\bin\Debug\SkyBlock betaRelease.pdb
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\bin\Debug\Newtonsoft.Json.dll
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\bin\Debug\FileSystem.pdb
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\bin\Debug\MiNET.pdb
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\bin\Debug\Newtonsoft.Json.xml
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\obj\Debug\SkyBlock betaRelease.dll
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\obj\Debug\SkyBlock betaRelease.pdb
+D:\documents\visual studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\obj\Debug\SkyBlock.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\bin\Debug\FileSystem.dll
+D:\Documents\Visual Studio 2015\Projects\SkyBlock betaRelease\SkyBlock betaRelease\bin\Debug\MiNET.dll
